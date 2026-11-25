@@ -2,9 +2,9 @@
 
 本题：审稿回复与论文修改（challenge-2815a418，赛道 writing）。
 
-能力定位：在保留原始事实（数字、单位、引用、图表编号、专有名词）的前提下改写与扩写学术文本，产出可直接落盘的成稿，并给出逐条可核验的变更记录
+能力定位：对每条审稿意见逐条回复，给出修改位置与修改内容，区分实质修改与仅解释，修订稿内嵌意见标记。
 
-交付物：result.json（契约齐全）、改写稿、evidence_map、change_log
+交付物：response-letter.md（逐条回复表）、revised-manuscript.md（含 <!-- Rn --> 标记）、comment-response.json
 
 
 ## 这个 Skill 做什么
